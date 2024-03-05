@@ -1,4 +1,4 @@
-- 🦈 @requinrose is pinky sharkie
+- 🦈 @requinrose is A pinky sharkie
 
 <!---
 requinrose/requinrose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
